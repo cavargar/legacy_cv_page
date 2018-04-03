@@ -1,4 +1,4 @@
-# César Vargas Ph.D.
+# César Vargas, Ph.D.
 
 The most striking feature of life on earth is its diversity. I'm aware of the central role of biology in understanding how biodiversity arose, how it is maintained, what are its consequences, and how we should conserve it. However, since the study of biodiversity could be overwhelming, I'm interested in new ways in which mathematical modeling might help in guiding in the selection of the next research question to solve. In particular, I'm interested in:
 
