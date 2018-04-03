@@ -5,8 +5,13 @@ The most striking feature of life on earth is its diversity. I'm aware of the ce
 - Biological data analysis through mathematical frameworks such as those used in machine learning (PCA, Tensor analysis, etc.)
 - Mathematical modeling, using frameworks like ordinary differential equations (ODE), stochastic processes (hybrid systems, markov processes, SDEs).
 
-Biological problems I'm passionate by range from the study of interactions between hosts and pathogens at inter-cellular level, to the dynamics of a given molecule at the single-cell level. [Please see my full cv.](https://github.com/cavargar/cavargar.github.io/raw/master/cv.pdf)
+Biological problems I'm passionate by range from the study of interactions between hosts and pathogens at inter-cellular level, to the dynamics of a given molecule at the single-cell level.
 
+You might find the following links helpful:
+
+- Google scholar [link](https://scholar.google.com.co/citations?user=csX8l60AAAAJ&hl=en).
+
+- Full cv [link](https://github.com/cavargar/cavargar.github.io/raw/master/cv.pdf).
 
 ## Research
 - Single cell analysis
