@@ -13,6 +13,8 @@ You might find the following links helpful:
 
 - Full cv [link](https://github.com/cavargar/cavargar.github.io/raw/master/cv.pdf).
 
+- email: cavargar[at]gmail[dot]com
+
 ## Research
 - Single cell analysis
     - Gene expression networks (inference, analysis, design).
