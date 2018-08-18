@@ -25,15 +25,15 @@ You might find the following links helpful:
 ## Publications
 
 ### Ongoing
-- Singh, A., Vargas-Garcia, C. A. & Bjorklund, M. Joint regulation of growth and division timing drives size homeostasis in proliferating animal cells. To be Submitted  (2018). doi:10.1101/173070
+- Singh, A., Vargas-Garcia, C. A. & Bjorklund, M. [Joint regulation of growth and division timing drives size homeostasis in proliferating animal cells](https://doi:10.1101/173070). To be Submitted  (2018).
 
 ### Under review
 - Cannon, L., & Vargas-Garcia, C. A. (2018). HIV 2-LTR Experiment Design Optimization. Plos One (under Review).
 
 ### Recently published
-- Vargas-Garcia, C., Zurakowski, R., & Singh, A. (2018). Synaptic transmission may provide an evolutionary benefit to HIV through modulation of latency. Journal of Theoretical Biology, 455, 261–268. https://doi.org/10.1016/j.jtbi.2018.07.030
+- Vargas-Garcia, C., Zurakowski, R., & Singh, A. (2018). [Synaptic transmission may provide an evolutionary benefit to HIV through modulation of latency](https://doi.org/10.1016/j.jtbi.2018.07.030). Journal of Theoretical Biology, 455, 261–268.
 
-- Cell size control and gene expression homeostasis in single-cells. Current Opinion in Systems Biology 8, 109–116 (2018).  https://doi.org/10.1016/j.coisb.2018.01.002
+- Vargas-Garcia, C. A.,Ghusinga, K. R. & Singh, A. [Cell size control and gene expression homeostasis in single-cells](https://doi.org/10.1016/j.coisb.2018.01.002). Current Opinion in Systems Biology 8, 109–116 (2018).
 
 - Shaffer, S. M. et al. Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance. Nature 546, 431–435 (2017).
 
