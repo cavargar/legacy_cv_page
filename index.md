@@ -32,7 +32,7 @@ You might find the following links helpful:
 
 - Nieto-Acuna, C. A., Arias-Castro, J. C., Sanchez-Isaza, C. A., Vargas-Garcia, C. A., & Pedraza, J. M. (2019). Characterization of cell division control strategies through continuous rate models. arXiv preprint arXiv:1905.13377.
 
-- Hinojosa, Carlos; Vargas, Cesar; Pinto, Jhon; Camacho, Ariolfo; Arguello, Henry (2019). AgroTIC App: Narrowing down the digital breach among Colombian farmers through smartphones. IEEE Software.
+- Hinojosa, Carlos; Vargas, Cesar; Pinto, Jhon; Camacho, Ariolfo; Arguello, Henry (2019). AgroTIC App: Narrowing down the digital breach among Colombian farmers through smartphones.
 
 ### Recently published
 
