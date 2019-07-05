@@ -11,6 +11,16 @@ You might find the following links helpful:
 
 - Google scholar [link](https://scholar.google.com.co/citations?user=csX8l60AAAAJ&hl=en).
 
+- ResearcherID [link](https://publons.com/researcher/J-8090-2017/).
+
+- ORCID [link](https://orcid.org/0000-0002-4286-8882).
+
+- Scopus [link](http://www.scopus.com/inward/authorDetails.url?authorID=56423559600&partnerID=MN8TOARS).
+
+- Mendeley [link](https://www.mendeley.com/profiles/cesar-vargas-garcia/).
+
+- Facebook [link](https://www.facebook.com/ComputationalSystems-Biology-2146315258719347/).
+
 - Full cv [link](https://github.com/cavargar/cavargar.github.io/raw/master/cv.pdf).
 
 - Email: cavargar[at]gmail[dot]com
