@@ -36,15 +36,14 @@ You might find the following links helpful:
 
 ### Ongoing
 
-- Singh, A., Vargas-Garcia, C. A. & Bjorklund, M. [Joint regulation of growth and division timing drives size homeostasis in proliferating animal cells](https://doi:10.1101/173070). To be Submitted  (2019).
-
-### Under review
-
-- Nieto-Acuna, C. A., Arias-Castro, J. C., Sanchez-Isaza, C. A., Vargas-Garcia, C. A., & Pedraza, J. M. (2019). Characterization of cell division control strategies through continuous rate models. arXiv preprint arXiv:1905.13377.
-
-- Pinilla, S., Bacca, J., Vargas, C., Poveda-Jaramillo, J. C., & Arguello, H. (2019). Exact Crystalline Structure Recovery in X-ray Crystallography from Coded Diffraction Patterns. arXiv preprint arXiv:1907.03547.
+- Singh, A., Vargas-Garcia, C. A. & Bjorklund, M. [Joint regulation of growth and division timing drives size homeostasis in proliferating animal cells](https://doi:10.1101/173070). To be Submitted  (2020).
+### Conferences
 
 ### Recently published
+
+- Nieto, C., Arias-Castro, J., Sánchez, C., Vargas-García, C., & Pedraza, J. M. (2019). [Unification of cell division control strategies through continuous rate models](https://scholar.google.com.mx/scholar?oi=bibs&cluster=13287456725850935060&btnI=1&hl=en). to Appear PRE.
+
+- Nieto-Acuna, C. A., Vargas-Garcia, C. A., Singh, A., & Pedraza, J. M. (2019). [Efficient computation of stochastic cell-size transient dynamics](https://scholar.google.com.mx/scholar?oi=bibs&cluster=2941983706631758531&btnI=1&hl=en). BMC bioinformatics, 20(23), 1-6.
 
 - Cannon, L., Vargas-Garcia, C. A., Jagarapu, A., Piovoso, M. J., & Zurakowski, R. (2018). HIV 2-LTR experiment design optimization. PloS one, 13(11), e0206700.
 
