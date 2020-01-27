@@ -37,7 +37,10 @@ You might find the following links helpful:
 ### Ongoing
 
 - Singh, A., Vargas-Garcia, C. A. & Bjorklund, M. [Joint regulation of growth and division timing drives size homeostasis in proliferating animal cells](https://doi:10.1101/173070). To be Submitted  (2020).
+
 ### Conferences
+
+- Nieto-Acuna, C. A., Vargas-Garcia, C. A., & Pedraza-Leal, J. M. (2019, October). [Dissecting cell-size control strategies through stochastic processes](https://ieeexplore.ieee.org/abstract/document/8921329/). In 2019 IEEE 4th Colombian Conference on Automatic Control (CCAC) (pp. 1-5). IEEE.
 
 ### Recently published
 
