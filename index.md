@@ -38,7 +38,7 @@ You might find the following links helpful:
 
 - Vargas-Garcia, C. A. Singh, A. & Bjorklund, M. [Joint regulation of growth and division timing drives size homeostasis in proliferating animal cells](https://doi:10.1101/173070). Submitted  (2020).
 
-- Nieto-Acuna, C. A., Vargas-Garcia, C. A., & Pedraza, J. M. (2019). Stochasticity in bacterial division control: Preliminary consequences for protein concentration. bioRxiv, 826867. Submitted (2020).
+- Nieto-Acuna, C. A., Vargas-Garcia, C. A., & Pedraza, J. M. (2019). [Stochasticity in bacterial division control: Preliminary consequences for protein concentration](https://www.biorxiv.org/content/10.1101/826867v1.abstract). bioRxiv, 826867. Submitted (2020).
 
 - Nieto, C., Arias-Castro, J., Sánchez, C., Vargas-García, C., & Pedraza, J. M. Under review (2020).
 
@@ -52,9 +52,6 @@ You might find the following links helpful:
 
 - Nieto-Acuna, C. A., Vargas-Garcia, C. A., & Pedraza-Leal, J. M. (2019, October). [Dissecting cell-size control strategies through stochastic processes](https://ieeexplore.ieee.org/abstract/document/8921329/). In 2019 IEEE 4th Colombian Conference on Automatic Control (CCAC) (pp. 1-5). IEEE.
 
-
-
-- Nieto-Acuna, C. A., Vargas-Garcia, C. A., Singh, A. & Pedraza-Leal, J. M. (2020). Dissecting cell-size control strategies through stochastic processes. In  21rst IFAC World Congress. To appear.
 
 ### Recently published
 
