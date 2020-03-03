@@ -36,15 +36,29 @@ You might find the following links helpful:
 
 ### Ongoing
 
-- Singh, A., Vargas-Garcia, C. A. & Bjorklund, M. [Joint regulation of growth and division timing drives size homeostasis in proliferating animal cells](https://doi:10.1101/173070). To be Submitted  (2020).
+- Vargas-Garcia, C. A. Singh, A. & Bjorklund, M. [Joint regulation of growth and division timing drives size homeostasis in proliferating animal cells](https://doi:10.1101/173070). Submitted  (2020).
+
+- Nieto-Acuna, C. A., Vargas-Garcia, C. A., & Pedraza, J. M. (2019). Stochasticity in bacterial division control: Preliminary consequences for protein concentration. bioRxiv, 826867. Submitted (2020).
+
+- Nieto, C., Arias-Castro, J., Sánchez, C., Vargas-García, C., & Pedraza, J. M. Under review (2020).
+
+- Nieto, C., Arias-Castro, J., Sánchez, C., Vargas-García, C., & Pedraza, J. M. To be submitted (2020).
 
 ### Conferences
 
+- Nieto-Acuna, C. A., Vargas-Garcia, C. A., Singh, A. & Pedraza-Leal, J. M. (2020). Dissecting cell-size control strategies through stochastic processes. In  21rst IFAC World Congress. To appear.
+
+- Li, Y., Vargas-Garcia, C. A., Singh, A. (2020). Stochastic Stability of a Cell Cycle Model with “Silence Period". In 2020 European Control Conference. To appear.
+
 - Nieto-Acuna, C. A., Vargas-Garcia, C. A., & Pedraza-Leal, J. M. (2019, October). [Dissecting cell-size control strategies through stochastic processes](https://ieeexplore.ieee.org/abstract/document/8921329/). In 2019 IEEE 4th Colombian Conference on Automatic Control (CCAC) (pp. 1-5). IEEE.
+
+
+
+- Nieto-Acuna, C. A., Vargas-Garcia, C. A., Singh, A. & Pedraza-Leal, J. M. (2020). Dissecting cell-size control strategies through stochastic processes. In  21rst IFAC World Congress. To appear.
 
 ### Recently published
 
-- Nieto, C., Arias-Castro, J., Sánchez, C., Vargas-García, C., & Pedraza, J. M. (2019). [Unification of cell division control strategies through continuous rate models](https://scholar.google.com.mx/scholar?oi=bibs&cluster=13287456725850935060&btnI=1&hl=en). to Appear PRE.
+- Nieto, C., Arias-Castro, J., Sánchez, C., Vargas-García, C., & Pedraza, J. M. (2020). [Unification of cell division control strategies through continuous rate models](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022401). Physical Review E, 101(2), 022401.
 
 - Nieto-Acuna, C. A., Vargas-Garcia, C. A., Singh, A., & Pedraza, J. M. (2019). [Efficient computation of stochastic cell-size transient dynamics](https://scholar.google.com.mx/scholar?oi=bibs&cluster=2941983706631758531&btnI=1&hl=en). BMC bioinformatics, 20(23), 1-6.
 
